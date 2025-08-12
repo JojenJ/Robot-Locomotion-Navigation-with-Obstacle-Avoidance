@@ -2,7 +2,8 @@
 ## Unitree GO2 project
 code is in construction
 
-here are a few tests
+here are a few tests:
+
 ![Demo Animation](gifs/test_inoffice.gif)
 
 ![Demo Animation](gifs/rviz.gif)
