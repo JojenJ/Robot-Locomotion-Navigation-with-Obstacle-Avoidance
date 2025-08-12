@@ -1,4 +1,9 @@
 # Robot-Locomotion-Navigation-with-Obstacle-Avoidance
+## Unitree GO2 project
+code is in construction
+here are a few tests
+
+
 
 ## Open duck project
 This project integrates **Open Duck** bipedal locomotion with **deep reinforcement learning (DRL)**-based navigation and obstacle avoidance.  
