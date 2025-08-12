@@ -3,6 +3,9 @@
 code is in construction
 
 here are a few tests
+![Demo Animation](gifs/test_inoffice.gif)
+
+![Demo Animation](gifs/rviz.gif)
 
 
 
@@ -34,6 +37,8 @@ The goal is to achieve **autonomous navigation** in dynamic environments using *
 ├── DRL-robot-navigation/ # Reinforcement learning navigation module
 ├── pocket_communication/ # Point cloud & pose transmission (ROS)
 └── docs/ # Diagrams, setup notes    
+
+![Demo Animation](gifs/duck_test.gif)
 
 
 **日常使用**
