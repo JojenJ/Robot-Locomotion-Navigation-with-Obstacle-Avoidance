@@ -1,5 +1,6 @@
 # Robot-Locomotion-Navigation-with-Obstacle-Avoidance
 ## Unitree GO2 project
+navigation using neuPAN (https://github.com/hanruihua/NeuPAN.git)
 code is in construction
 
 here are a few tests:
@@ -11,7 +12,7 @@ here are a few tests:
 
 
 
-## Open duck project
+## Open duck project（https://github.com/apirrone/Open_Duck_Mini.git）
 This project integrates **Open Duck** bipedal locomotion with **deep reinforcement learning (DRL)**-based navigation and obstacle avoidance.  
 It combines multiple components:  
 - **Open Duck locomotion control** (URDF + Mujoco/Isaac Gym simulation + real-world deployment)  
@@ -59,6 +60,7 @@ scan on
 
 **改动**
 添加了控制指令的接收程序，在启动v2_mujoco那个程序后会waiting PC端的server_client去发布控制
+
 控制信号是 *linear speed 和 angular speed*
 
 暂时disable了关于扬声器的串口，alsa无法打开这个设备，会报错
