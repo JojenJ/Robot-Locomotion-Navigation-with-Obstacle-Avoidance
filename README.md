@@ -1,7 +1,8 @@
 # Robot-Locomotion-Navigation-with-Obstacle-Avoidance
 ## Unitree GO2 project
 navigation using neuPAN (https://github.com/hanruihua/NeuPAN.git)
-code is in construction
+
+**code is in construction**
 
 here are a few tests:
 
