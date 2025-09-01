@@ -13,7 +13,7 @@ here are a few tests:
 
 
 
-## Open duck project（https://github.com/apirrone/Open_Duck_Mini.git）
+## Open duck project（https://github.com/apirrone/Open_Duck_Mini.git ）
 This project integrates **Open Duck** bipedal locomotion with **deep reinforcement learning (DRL)**-based navigation and obstacle avoidance.  
 It combines multiple components:  
 - **Open Duck locomotion control** (URDF + Mujoco/Isaac Gym simulation + real-world deployment)  
