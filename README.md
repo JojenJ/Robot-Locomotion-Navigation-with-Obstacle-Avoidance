@@ -72,7 +72,7 @@ scan on
 
 ——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
 
-DRL-robot-navigation：（https://github.com/reiniscimurs/DRL-robot-navigation.git）
+DRL-robot-navigation：（https://github.com/reiniscimurs/DRL-robot-navigation.git ）
 
 **训练**
 使用SAC模型收敛速度要显著快于TD3，但是TD3算法较先进
